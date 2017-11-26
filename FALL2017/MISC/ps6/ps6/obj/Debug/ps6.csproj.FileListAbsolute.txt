@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ps6\ps6\obj\Debug\ps6.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\ps6\ps6\obj\Debug\ps6.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ps6\ps6\bin\Debug\ps6.exe.config
+C:\Users\user\source\repos\ps6\ps6\bin\Debug\ps6.exe
+C:\Users\user\source\repos\ps6\ps6\bin\Debug\ps6.pdb
+C:\Users\user\source\repos\ps6\ps6\obj\Debug\ps6.exe
+C:\Users\user\source\repos\ps6\ps6\obj\Debug\ps6.pdb

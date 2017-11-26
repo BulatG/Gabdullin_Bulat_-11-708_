@@ -1,0 +1,7 @@
+c:\users\user\source\repos\ps1.4\ps1.4\bin\Debug\ps1.4.exe.config
+c:\users\user\source\repos\ps1.4\ps1.4\bin\Debug\ps1.4.exe
+c:\users\user\source\repos\ps1.4\ps1.4\bin\Debug\ps1.4.pdb
+c:\users\user\source\repos\ps1.4\ps1.4\obj\Debug\ps1.4.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\ps1.4\ps1.4\obj\Debug\ps1.4.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\ps1.4\ps1.4\obj\Debug\ps1.4.exe
+c:\users\user\source\repos\ps1.4\ps1.4\obj\Debug\ps1.4.pdb

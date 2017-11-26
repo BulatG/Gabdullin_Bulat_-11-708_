@@ -1,0 +1,1 @@
+c:\users\user\source\repos\expr 11\expr 11\obj\Debug\expr 11.csproj.CoreCompileInputs.cache
