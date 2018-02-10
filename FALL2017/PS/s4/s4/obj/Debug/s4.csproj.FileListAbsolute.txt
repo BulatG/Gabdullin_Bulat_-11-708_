@@ -1,0 +1,7 @@
+C:\Users\user\FALL2017\PS\s4\s4\obj\Debug\s4.csprojResolveAssemblyReference.cache
+C:\Users\user\FALL2017\PS\s4\s4\obj\Debug\s4.csproj.CoreCompileInputs.cache
+C:\Users\user\FALL2017\PS\s4\s4\bin\Debug\s4.exe.config
+C:\Users\user\FALL2017\PS\s4\s4\bin\Debug\s4.exe
+C:\Users\user\FALL2017\PS\s4\s4\bin\Debug\s4.pdb
+C:\Users\user\FALL2017\PS\s4\s4\obj\Debug\s4.exe
+C:\Users\user\FALL2017\PS\s4\s4\obj\Debug\s4.pdb
