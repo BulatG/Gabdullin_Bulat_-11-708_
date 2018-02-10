@@ -1,7 +1,0 @@
-c:\users\user\source\repos\expr10\expr10\bin\Debug\expr10.exe.config
-c:\users\user\source\repos\expr10\expr10\bin\Debug\expr10.exe
-c:\users\user\source\repos\expr10\expr10\bin\Debug\expr10.pdb
-c:\users\user\source\repos\expr10\expr10\obj\Debug\expr10.csprojResolveAssemblyReference.cache
-c:\users\user\source\repos\expr10\expr10\obj\Debug\expr10.csproj.CoreCompileInputs.cache
-c:\users\user\source\repos\expr10\expr10\obj\Debug\expr10.exe
-c:\users\user\source\repos\expr10\expr10\obj\Debug\expr10.pdb

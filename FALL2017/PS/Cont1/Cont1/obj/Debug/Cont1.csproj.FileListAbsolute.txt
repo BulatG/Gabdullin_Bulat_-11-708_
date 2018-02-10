@@ -1,7 +1,0 @@
-c:\users\user\source\repos\Cont1\Cont1\bin\Debug\Cont1.exe.config
-c:\users\user\source\repos\Cont1\Cont1\bin\Debug\Cont1.exe
-c:\users\user\source\repos\Cont1\Cont1\bin\Debug\Cont1.pdb
-c:\users\user\source\repos\Cont1\Cont1\obj\Debug\Cont1.csprojResolveAssemblyReference.cache
-c:\users\user\source\repos\Cont1\Cont1\obj\Debug\Cont1.csproj.CoreCompileInputs.cache
-c:\users\user\source\repos\Cont1\Cont1\obj\Debug\Cont1.exe
-c:\users\user\source\repos\Cont1\Cont1\obj\Debug\Cont1.pdb
