@@ -1,7 +1,0 @@
-c:\users\user\source\repos\ps1.2\ps1.2\bin\Debug\ps1.2.exe.config
-c:\users\user\source\repos\ps1.2\ps1.2\bin\Debug\ps1.2.exe
-c:\users\user\source\repos\ps1.2\ps1.2\bin\Debug\ps1.2.pdb
-c:\users\user\source\repos\ps1.2\ps1.2\obj\Debug\ps1.2.csprojResolveAssemblyReference.cache
-c:\users\user\source\repos\ps1.2\ps1.2\obj\Debug\ps1.2.csproj.CoreCompileInputs.cache
-c:\users\user\source\repos\ps1.2\ps1.2\obj\Debug\ps1.2.exe
-c:\users\user\source\repos\ps1.2\ps1.2\obj\Debug\ps1.2.pdb
