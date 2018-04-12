@@ -1,0 +1,7 @@
+C:\Users\user\SPRING2018\Svaznosti\Svaznosti\bin\Debug\Svaznosti.exe.config
+C:\Users\user\SPRING2018\Svaznosti\Svaznosti\bin\Debug\Svaznosti.exe
+C:\Users\user\SPRING2018\Svaznosti\Svaznosti\bin\Debug\Svaznosti.pdb
+C:\Users\user\SPRING2018\Svaznosti\Svaznosti\obj\Debug\Svaznosti.csprojResolveAssemblyReference.cache
+C:\Users\user\SPRING2018\Svaznosti\Svaznosti\obj\Debug\Svaznosti.csproj.CoreCompileInputs.cache
+C:\Users\user\SPRING2018\Svaznosti\Svaznosti\obj\Debug\Svaznosti.exe
+C:\Users\user\SPRING2018\Svaznosti\Svaznosti\obj\Debug\Svaznosti.pdb

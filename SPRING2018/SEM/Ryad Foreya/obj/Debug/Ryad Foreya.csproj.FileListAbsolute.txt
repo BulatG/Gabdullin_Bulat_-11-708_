@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Ryad Foreya\Ryad Foreya\bin\Debug\Ryad Foreya.exe.config
+C:\Users\user\source\repos\Ryad Foreya\Ryad Foreya\bin\Debug\Ryad Foreya.exe
+C:\Users\user\source\repos\Ryad Foreya\Ryad Foreya\bin\Debug\Ryad Foreya.pdb
+C:\Users\user\source\repos\Ryad Foreya\Ryad Foreya\obj\Debug\Ryad Foreya.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Ryad Foreya\Ryad Foreya\obj\Debug\Ryad Foreya.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Ryad Foreya\Ryad Foreya\obj\Debug\Ryad Foreya.exe
+C:\Users\user\source\repos\Ryad Foreya\Ryad Foreya\obj\Debug\Ryad Foreya.pdb
